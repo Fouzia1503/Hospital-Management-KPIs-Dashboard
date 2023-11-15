@@ -1,0 +1,17 @@
+Developed a cutting-edge interactive dashboard to optimize hospital management insights 🚀💡. This robust tool empowers us to visualize critical data, monitor performance metrics, and make well-informed decisions for the welfare of our patients and the efficiency of our operations.
+
+Insights:
+
+Configure filters for surgery and year to showcase Key Performance Indicators (KPIs) including:
+
+Total Surgeries: Estimate the overall number of surgeries performed.
+Surgeon Count: Illustrate the diversity and expertise of our surgical team, ensuring top-notch skills for every procedure.
+Average Length of Stay (LOS): Prioritize efficient patient care by examining the average length of stay for valuable insights into recovery and resource optimization.
+Average Patient Age, Gender Distribution, and Age Distribution: Understand the demographics of our surgical patients.
+Cost Breakdown: Delve into the intricacies of costs and identify sources contributing to significant revenue generation.
+Profit: Assess profits generated during the fiscal year to gauge the organization's financial standing through comparisons with various financial periods.
+Average Total Package: Estimate the final bill amount by amalgamating individual services contributing to a successful procedure.
+Surgeon's Share: Approximate the percentage of share a surgeon is entitled to upon the generation of the final bill amount.
+Surgeon-wise Average Surgeon Charges: Determine the average charges for surgeons on an individual basis.
+Surgeon-wise Average LOS: Calculate the average length of stay (LOS) for each surgeon individually.
+Room-wise Total Rent: Gain insights into patients' room preferences.
